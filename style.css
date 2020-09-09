@@ -1,0 +1,123 @@
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #212121;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #191919;
+}
+
+ol {
+    padding-left: 1em;
+}
+
+li {
+    padding-bottom: 1em;
+}
+
+.myBtn {
+    margin: 5px !important;
+    display: inline;
+    font-size: 0.75rem !important;
+}
+
+.myBtn:first-of-type {
+    margin-left: none !important;
+    padding-left: none !important;
+}
+
+.cb {
+    overflow-y: hidden;
+    height: 25vh;
+}
+
+.cb:hover {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.rhe i {
+    padding-right: 1.5rem;
+}
+
+a {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+#mro .col-md-4,
+#mro1 .col-md-4 {
+    padding: 1.05rem;
+
+}
+
+#acases {
+    line-height: 2rem;
+}
+
+#searchbox {
+    background-color: #191919;
+    color: white;
+    border: none;
+    width: 100%;
+    outline: none;
+}
+
+
+#searchbox:focus {
+    background-color: #191919;
+}
+
+
+
+::-webkit-input {
+    padding: 10px;
+    background-color: #191919;
+    color: #fff !important;
+}
+
+#mydiv {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+#sen {
+    justify-content: flex-end;
+    border: none;
+    background-color: transparent;
+    color: white;
+}
+
+
+#mying {
+    vertical-align: middle;
+}
+
+#neww {
+    display: grid;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#hehehe {
+    line-height: 15px;
+    max-height: 20vh;
+    overflow: hidden;
+    height: auto;
+}
+
+#hehehe p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+#hehehe:hover {
+    overflow-y: scroll;
+}
